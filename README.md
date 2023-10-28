@@ -1,2 +1,3 @@
 # ustc- course
-my first respository
+记录科大大数据学院的课程资料
+
