@@ -1,2 +1,2 @@
-# my-first
+# ustc- course
 my first respository
